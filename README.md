@@ -17,8 +17,14 @@ Esta API fornece informações relacionadas às abas de Produção, Processament
 
 ## Endpoints da API
 
-A seguir, são detalhados os endpoints disponíveis na API:
+A seguir, são detalhados os endpoints disponíveis na API, onde é possível realizar o seu consumo através do método GET.
 
+- https://api-emb.azurewebsites.net/docs#/ : Documentação da API criada pela FastAPI, sendo possível testar o seu consumo.
+- https://api-emb.azurewebsites.net/producao : Banco de dados de uva, vinho e derivados. Produção de vinhos, sucos e derivados do Rio Grande do Sul
+- https://api-emb.azurewebsites.net/processamento : Banco de dados de uva, vinho e derivados. Quantidade de uvas processadas no Rio Grande do Sul
+- https://api-emb.azurewebsites.net/comercializacao : Banco de dados de uva, vinho e derivados. Comercialização de vinhos e derivados no Rio Grande do Sul
+- https://api-emb.azurewebsites.net/importacao : Banco de dados de uva, vinho e derivados. Importação de derivados de uva
+- https://api-emb.azurewebsites.net/exportacao : Banco de dados de uva, vinho e derivados. Exportação de derivados de uva
 
 
 ## Deploy e disponibilização da API
