@@ -13,7 +13,7 @@ Esta API fornece informações relacionadas às abas de Produção, Processament
 -   **Linguagem de Programação**: Python
 -   **Framework para a API**: FastAPI
 
-![Alt text](/Documentation/Pos_TechChallenge_v1-Arq Solução.png?raw=true "Optional Title")
+![Alt text](/Documentation/Pos_TechChallenge_v1-Arq Solucao.png?raw=true "Optional Title")
 
 ## Endpoints da API
 
