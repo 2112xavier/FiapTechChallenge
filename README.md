@@ -32,11 +32,10 @@ A seguir, são detalhados os endpoints disponíveis na API, onde é possível re
 A API foi criada em Python, utilizando o framework FastAPI. Para realizar o scrapping da página da Embrapa, empregamos a biblioteca Pandas, realizando solicitações GET às URLs fornecidas pela Embrapa. Em seguida, os dados foram transformados em um dataframe e convertidos para JSON. O Código fonte está armazenado em um repositório no GiHub, e utilizando o GitHub Actions para automatizar o deploy do código no serviço de aplicativos da Azure. 
 
 Para mais informações de como o App Service funciona, consultar a documentação oficial da Microsoft:
-https://learn.microsoft.com/en-us/training/modules/deploy-run-container-app-service/
+https://learn.microsoft.com/en-us/azure/app-service/
 
 ![Alt text](/Documentation/Pos_TechChallenge_v1-Deploy.png?raw=true "Optional Title")
 
-Após o acesso à AWS for viabilizado e os devidos conteúdos serem apresentados, vamos migrar a solução para o ambiente, dando continuidade nos próximos desenvolvimentos do curso. 
 
 ## Considerações Finais
 
